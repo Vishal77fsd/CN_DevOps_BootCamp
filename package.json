@@ -1,0 +1,28 @@
+{
+  "name": "cn_devops_bootcamp",
+  "version": "1.0.0",
+  "description": "CN_DevOps_BootCamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishal77fsd/CN_DevOps_BootCamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishal77fsd/CN_DevOps_BootCamp/issues"
+  },
+  "homepage": "https://github.com/Vishal77fsd/CN_DevOps_BootCamp#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "superset": "^2.0.1",
+    "supertest": "^7.0.0"
+  }
+}
